@@ -4,7 +4,7 @@
 
 ![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Screenshot 2024-07-22 143418](https://github.com/user-attachments/assets/99d487de-3a2f-4dec-8fff-f8e6bd3f29d3)
 
 - [Demo Project](https://saeidnikseresht.github.io/first/)
 
