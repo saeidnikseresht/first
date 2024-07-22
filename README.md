@@ -1,4 +1,4 @@
-# First prodect
+#🤞 First prodect🤞
 
 **If you have a lot of information to display on your site, why don't you use my first**
 
@@ -8,14 +8,14 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by saeid nikseresht
+- Developed by 👨‍💻saeid nikseresht👨‍💻
 
 - Created - 7/21/2024 july
 
-- Technologies Used - Html , css , js ,React
+-👉 Technologies Used - Html , css , js ,React
 
 - Hooks Used : useState 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/saeid_good_nature) and [linkedin](https://www.linkedin.com/in/saeidnikseresht)
+-👉 How to reach me : with my [instagram](https://www.instagram.com/saeid_good_nature) and [linkedin](https://www.linkedin.com/in/saeidnikseresht)
